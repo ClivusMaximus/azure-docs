@@ -96,7 +96,8 @@ To configure Azure AD single sign-on with Alcumus Info Exchange, perform the fol
     ![Alcumus Info Exchange Domain and URLs single sign-on information](common/idp-intiated.png)
 
     a. In the **Identifier** text box, type a URL using the following pattern:
-    `https://<subdomain>.info-exchange.com`
+    `https://<subdomain>.info-exchange.com`  
+    Please note! A checkbox entitled Default may appear alongside the *Identifier (Entity ID)*, please ensure this checkbox is ticked.
 
     b. In the **Reply URL** text box, type a URL using the following pattern:
     `https://<subdomain>.info-exchange.com/Auth/`
